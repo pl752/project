@@ -5,3 +5,5 @@ Awesome
 [Author](author.md)
 
 ## Something new
+
+##Conflict
